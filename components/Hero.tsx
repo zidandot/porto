@@ -27,7 +27,7 @@ export default function Hero() {
               <Button children="Download CV" />
             </Link>
           </div>
-          <div>
+          <div className="flex flex-col gap-5">
             <p>Connect with me</p>
             <div className="flex gap-8">
               <div className="flex rounded-full border-neutral-200 border-2 h-13 w-13 items-center justify-center">
